@@ -7,7 +7,7 @@
 
 # Setup_guide
 Python
-1. Install homebrew "
+1. Install homebrew 
 >https://brew.sh/
 
 2. Install npm and Node.js by homebrew
