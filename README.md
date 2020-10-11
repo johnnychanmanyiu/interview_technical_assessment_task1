@@ -6,7 +6,7 @@
 5. Pytest-bdd 3.3.0+
 
 # Setup_guide
-Python
+**Python**
 1. Install homebrew 
 >https://brew.sh/
 
@@ -16,18 +16,18 @@ Python
 3. Install python by npm 
 >npm install python
 
-Chromedriver
+**Chromedriver**
 1. Access caskroom from Homebrew 
 >brew tap homebrew/cask
 
 2. Install Chromedriver from Homebrew caskroom 
 >brew cask install chromedriver
 
-Selenium
+**Selenium**
 1. Install by python package installer pip 
 >pip install selenium
 
-Pytest-bdd
+**Pytest-bdd**
 1. Install by python package installer pip 
 >pip install pytest-bdd
 
